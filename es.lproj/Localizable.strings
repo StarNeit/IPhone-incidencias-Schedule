@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  incidencias
+
+  Created by PLEASE on 05/02/16.
+  Copyright © 2016 zaltan nyhether. All rights reserved.
+*/
+
+"Settings"= "Parámetros";
+"Posts" = "Publicaciones";
+"Post" = "Publicaciones";
+"New Pody" = "Nueva Publicación";
+"About" = "Acerca de";
+"Issue Pic" = "Fotografía";
+"Create" = "Crear";
+"Refresh" = "Actualizar";
+"Exit" = "Salir";
+"Description Field is empty, please fill the field and try again." = "Campo Expone Vacío. Por favor llene el campo e intente de nuevo.";
+"Status" = "Estatus";
+"Checking up" = "En Revisión";
+"Solved" = "Resuelto";
+"Not Solved" = "No Resuelto";
+"Not Allowed" = "No Permitido";
+"Other" = "Otros";
+"Picture" = "Fotografía";
+"Map" = "Mapa";
+"Sorry, unable to create maps" = "Disculpe, no se pudo generar el mapa.";
+"Sorry, you don\'t have posts to show, try later." = "Disculpe, no tiene publicaciones para mostrar, intente mas tarde.";
+"Error, the posts couldn\'t be refreshed." =  "Error, no se pudo actualizar las publicaciones.";
+"Error obtaining location, make sure your location option is enabled." = "Error, no se puede obtener la ubicación, asegurese de tener acceso a su ubicación en el móvil.";
+"Please, fill up all the fields showed here." =  "Por favor llene todos los campos aquí mostrados.";
+"Description" = "Expone";
+"Name" =  "Nombres";
+"Lastname" = "Apellidos";
+"No Phone Number Found" = "Número Móvil no encontrado.";
+"Send" = "Enviar";
+"New Post" = "Nueva Publicación";
+"from Camera" = "desde la Galería";
+"Cancel" = "Cancelar";
+"Rotate Picture" = "Rotar Imagen";
+"Take Picture" = "Tomar Fotografía";
+"CellPhone Number" =  "Número Móvil";
+"Sending" = "Enviando";
+"Wait please" = "Espere por favor";
+"Error, Something happened, try later." = "Error, algo salió mal, intente mas tarde.";
+"Settings Saved." = "Parámetros Almacenados.";
+"Settings Not Saved!!!" = "Parámetros no Almacenados!!!";
+"This information will be used as default values within your posts" = "La información aquí mostrada será usada como valores iniciales en sus Publicaciones";
+"Save" = "Guardar";
+"Developed by Hybrid Aplicaciones Informáticas S.L." = "Desarrollado por Hybrid Aplicaciones Informáticas S.L.";
+"@2015 Hybrid Aplicaciones Informáticas S.L." = "@2015 Hybrid Aplicaciones Informáticas S.L.";
+"Your network status is not ok.Please try again"= "El estado de la red no está bien. Por favor, inténtelo de nuevo";
+"Ok" = "Vale";
+"My location" = "Mi ubicación";
+"This is my location"= "Este es mi lugar";
+"Warning" = "ADVERTENCIA";
+"Your network status is not ok.Do you want to continue loading now?" = "El estado de la red no está bien. ¿Desea continuar cargando ahora?";
+"No" = "No";
+"Yes" = "Yes";
+"Post Failed.Check your network status." = "Post Failed.Check el estado de la red. ";
+"No Camera Available."= "Ninguna cámara disponible.";
+"Reload" ="Volver a cargar";
+"Power" = "Energía";
+"Incidencias"= "Sistema de Reporte de Incidencias";

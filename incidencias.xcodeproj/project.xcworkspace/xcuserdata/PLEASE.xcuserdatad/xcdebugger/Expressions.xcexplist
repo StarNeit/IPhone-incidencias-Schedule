@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__38-[EventListViewController viewDidLoad]_block_invoke:EventListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonData">
+            </PersistentString>
+            <PersistentString
+               value = "theObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PostDetailController viewDidLoad]:PostDetailController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m_latitude">
+            </PersistentString>
+            <PersistentString
+               value = "ga_latitud[g_curindex]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EventListViewController viewDidLoad]:EventListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "language">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[NewPostController viewDidLoad]_block_invoke:NewPostController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "locatedAt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__29-[ViewController viewDidLoad]_block_invoke:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "key2">
+            </PersistentString>
+            <PersistentString
+               value = "theObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewPostController alertView:didDismissWithButtonIndex:]:NewPostController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "alertView.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  incidencias
+
+  Created by PLEASE on 05/02/16.
+  Copyright © 2016 zaltan nyhether. All rights reserved.
+*/
+
+
+"Settings"= "Settings";
+"Posts" = "Posts";
+"Post" = "Post";
+"New Pody" = "New Pody";
+"About" = "About";
+"Issue Pic" = "Issue Pic";
+"Create" = "Create";
+"Refresh" = "Refresh";
+"Exit" = "Exit";
+"Description Field is empty, please fill the field and try again." = "Description Field is empty, please fill the field and try again.";
+"Status" = "Status";
+"Checking up" = "Checking up";
+"Solved" = "Solved";
+"Not Solved" = "Not Solved";
+"Not Allowed" = "Not Allowed";
+"Other" = "Other";
+"Picture" = "Picture";
+"Map" = "Map";
+"Sorry, unable to create maps" = "Sorry, unable to create maps";
+"Sorry, you don't have posts to show, try later." = "Sorry, you don't have posts to show, try later.";
+"Error, the posts couldn't be refreshed." =  "Error, the posts couldn't be refreshed.";
+"Error obtaining location, make sure your location option is enabled." = "Error obtaining location, make sure your location option is enabled.";
+"Please, fill up all the fields showed here." =  "Please, fill up all the fields showed here.";
+"Description" = "Description";
+"Name" =  "Name";
+"Lastname" = "Lastname";
+"No Phone Number Found" = "No Phone Number Found";
+"Send" = "Send";
+"New Post" = "New Post";
+"from Camera" = "from Camera";
+"Cancel" = "Cancel";
+"Rotate Picture" = "Rotate Picture";
+"Take Picture" = "Take Picture";
+"CellPhone Number" =  "CellPhone Number";
+"Sending" = "Sending";
+"Wait please" = "Wait please";
+"Error, Something happened, try later." = "Error, Something happened, try later.";
+"Settings Saved." = "Settings Saved.";
+"Settings Not Saved!!!" = "Settings Not Saved!!!";
+"This information will be used as default values within your posts" = "This information will be used as default values within your posts";
+"Save" = "Save";
+"Developed by Hybrid Aplicaciones Informáticas S.L." = "Developed by Hybrid Aplicaciones Informáticas S.L.";
+"@2015 Hybrid Aplicaciones Informáticas S.L." = "@2015 Hybrid Aplicaciones Informáticas S.L.";
+"Your network status is not ok.Please try again" = "Your network status is not ok.Please try again";
+"Ok" = "Ok";
+"My location" = "My location";
+"This is my location" = "This is my location";
+"Warning" = "Warning";
+"Your network status is not ok.Do you want to continue loading now?" ="Your network status is not ok.Do you want to continue loading now?";
+"No" = "No";
+"Yes" = "Yes";
+"Post Failed.Check your network status." = "Post Failed.Check your network status.";
+"No Camera Available."= "No Camera Available.";
+"Reload" ="Reload";
+"Power" = "Power";
+"Incidencias"= "Incidencias";

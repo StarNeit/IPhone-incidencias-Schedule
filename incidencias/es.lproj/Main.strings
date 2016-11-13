@@ -1,0 +1,108 @@
+
+/* Class = "UIButton"; normalTitle = "hahah"; ObjectID = "1OK-5O-a6Z"; */
+"1OK-5O-a6Z.normalTitle" = "hahah_spanish";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "4qt-XR-5vF"; */
+"4qt-XR-5vF.text" = "Expone";
+
+/* Class = "UINavigationItem"; title = "Add Cars"; ObjectID = "4wA-Bt-cdA"; */
+"4wA-Bt-cdA.title" = "Add Cars_spanish";
+
+/* Class = "UINavigationItem"; title = "DOPNavbarMenu"; ObjectID = "545-T2-RpH"; */
+"545-T2-RpH.title" = "DOPNavbarMenu";
+
+/* Class = "UILabel"; text = "Cellphone Number"; ObjectID = "73f-5g-qbI"; */
+"73f-5g-qbI.text" = "Número Móvil";
+
+/* Class = "UINavigationItem"; title = "DOPNavbarMenu"; ObjectID = "82h-fG-JqD"; */
+"82h-fG-JqD.title" = "DOPNavbarMenu_spanish";
+
+/* Class = "UINavigationItem"; title = "Posts"; ObjectID = "AaE-yL-h2A"; */
+"AaE-yL-h2A.title" = "publicaciones";
+
+/* Class = "UITextView"; text = "This information will be used as default values within your posts"; ObjectID = "E2B-NT-SyY"; */
+"E2B-NT-SyY.text" = "La información aquí mostrada será usada como valores iniciales en sus Publicaciones";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Eff-Re-h0d"; */
+"Eff-Re-h0d.text" = "Nombres";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "FIB-wQ-DJD"; */
+"FIB-wQ-DJD.text" = "Apellidos";
+
+/* Class = "UITextField"; placeholder = "LastName"; ObjectID = "Gof-o4-A5a"; */
+"Gof-o4-A5a.placeholder" = "Apellidos";
+
+/* Class = "UITextView"; text = "Checking up"; ObjectID = "HjO-H0-oid"; */
+"HjO-H0-oid.text" = "En Revisión";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "It3-OL-vES"; */
+"It3-OL-vES.normalTitle" = "desde la Cámara";
+
+/* Class = "UIBarButtonItem"; title = "Gallery"; ObjectID = "KNP-UA-3nd"; */
+"KNP-UA-3nd.title" = "desde la Galería";
+
+/* Class = "UILabel"; text = "LastName"; ObjectID = "LXb-y9-mCv"; */
+"LXb-y9-mCv.text" = "Apellidos";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Muc-Kc-lI0"; */
+"Muc-Kc-lI0.normalTitle" = "Button_spanish";
+
+/* Class = "UILabel"; text = "Cellphone Number"; ObjectID = "NLp-iQ-HOq"; */
+"NLp-iQ-HOq.text" = "Número Móvil";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Slj-zV-BDq"; */
+"Slj-zV-BDq.text" = "Nombres";
+
+/* Class = "UINavigationItem"; title = "DOPNavbarMenu"; ObjectID = "WCT-eB-QGg"; */
+"WCT-eB-QGg.title" = "DOPNavbarMenu_spanish";
+
+/* Class = "UIBarButtonItem"; title = "Camera"; ObjectID = "ZDx-bJ-Zvb"; */
+"ZDx-bJ-Zvb.title" = "desde la Cámara";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "b2P-Kn-OU6"; */
+"b2P-Kn-OU6.text" = "Título";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "cPY-Ps-1QN"; */
+"cPY-Ps-1QN.placeholder" = "Nombres";
+
+/* Class = "UILabel"; text = "Picture"; ObjectID = "fTq-AW-iuw"; */
+"fTq-AW-iuw.text" = "foto";
+
+/* Class = "UILabel"; text = "Shevchengo"; ObjectID = "gbn-wn-xq1"; */
+"gbn-wn-xq1.text" = "Shevchengo";
+
+/* Class = "UINavigationItem"; title = "DOPNavbarMenu"; ObjectID = "hRg-KI-NDo"; */
+"hRg-KI-NDo.title" = "DOPNavbarMenu_spanish";
+
+/* Class = "UILabel"; text = "17:47:17"; ObjectID = "kWp-tC-lfp"; */
+"kWp-tC-lfp.text" = "17:47:17";
+
+/* Class = "UILabel"; text = "What is the best food in sweden?"; ObjectID = "nVx-f8-7ZE"; */
+"nVx-f8-7ZE.text" = "Cuál es la mejor comida en Suecia?";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "nbw-uV-xTi"; */
+"nbw-uV-xTi.text" = "Mapa";
+
+/* Class = "UINavigationItem"; title = "DOPNavbarMenu"; ObjectID = "ozm-YM-Aiw"; */
+"ozm-YM-Aiw.title" = "DOPNavbarMenu_spanish";
+
+/* Class = "UILabel"; text = "22/01/16"; ObjectID = "pph-tr-bXH"; */
+"pph-tr-bXH.text" = "22/01/16";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "sRk-VF-wpe"; */
+"sRk-VF-wpe.text" = "Subtítulos";
+
+/* Class = "UIButton"; normalTitle = "Gallery"; ObjectID = "u3x-Iv-vgL"; */
+"u3x-Iv-vgL.normalTitle" = "desde la Galería";
+
+/* Class = "UITextField"; placeholder = "Cellphone Number"; ObjectID = "xZg-A8-T7o"; */
+"xZg-A8-T7o.placeholder" = "Número Móvil";
+
+/* Class = "UILabel"; text = "LastName"; ObjectID = "xgZ-as-Wvc"; */
+"xgZ-as-Wvc.text" = "Apellidos";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "zGI-Az-4ld"; */
+"zGI-Az-4ld.text" = "Dirección";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "za4-4w-Jz7"; */
+"za4-4w-Jz7.placeholder" = "Expone";
